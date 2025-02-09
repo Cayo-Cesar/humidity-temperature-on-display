@@ -52,7 +52,7 @@ This project uses an **ESP32** (or another compatible microcontroller) to measur
 ## Expected Output
 - OLED Display:
   ```
-  Temp: 27.5 C
+  Temp: 29.00 C
   Umid: 55 %
   ```
 - LED Indicators:
